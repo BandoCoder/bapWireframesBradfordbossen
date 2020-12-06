@@ -1,0 +1,27 @@
+.login {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: auto;
+  border-style: solid;
+  padding: 20px;
+  max-width: 350px;
+}
+
+.inputs {
+  display: flex;
+  flex-direction: column;
+}
+
+.formInput {
+  margin: auto;
+  max-width: 140px;
+}
+
+.loginSubmit {
+  margin: auto;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  max-width: min-content;
+}

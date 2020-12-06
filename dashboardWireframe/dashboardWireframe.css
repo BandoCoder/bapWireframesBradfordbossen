@@ -1,0 +1,14 @@
+body {
+  text-align: center;
+}
+
+.beatList {
+  display: flex;
+  flex-direction: column;
+  border-style: solid;
+  margin: auto;
+}
+
+h4 {
+  margin: 10px;
+}

@@ -1,0 +1,40 @@
+body {
+  margin: 25px;
+}
+
+header {
+  text-align: center;
+}
+
+.sequencer {
+  display: flex;
+  flex-direction: column;
+  border-style: solid;
+  padding: 5px;
+}
+
+.row {
+  margin: 5px;
+  display: flex;
+  flex-direction: row;
+  border-style: solid;
+  padding: 5px;
+  justify-content: space-between;
+}
+
+.box {
+  margin: 5px;
+  border-style: solid;
+  height: 20px;
+  width: 20px;
+  padding: 5px;
+  justify-content: space-between;
+}
+.lableBox {
+  width: 40px;
+}
+
+.transport {
+  display: flex;
+  flex-direction: row;
+}
